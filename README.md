@@ -27,22 +27,6 @@ When you first open the file, Windows SmartScreen may show "Windows protected yo
 
 To run it anyway, click **More info**, then **Run anyway**.
 
-## Verify your download
-
-You can check that your file is the official one. Open PowerShell in the folder where you saved it and run:
-
-```
-Get-FileHash .\DFPredictor.exe -Algorithm SHA256
-```
-
-The result should match this hash exactly:
-
-```
-cf0af19de4a003edbca808b4770c538d36f76aec984affea9a0f4e6483296f2d
-```
-
-If it doesn't match, delete the file and download it again from this page. Only download from this repository or from the official DonutFlip site.
-
 ## Support
 
 Questions or problems? Open an issue on this repository or contact us through DonutFlip.
