@@ -2,7 +2,7 @@
 DonutFlip Predictor
 # DonutFlip Predictor
 
-The official Windows predictor for [DonutFlip](https://YOUR-SITE-LINK-HERE). It gives you predictions for coin flips, roulette, blackjack and more.
+The official Windows predictor for [DonutFlip](https://donutflip.net/). It gives you predictions for coin flips, roulette, blackjack and more.
 
 **DonutFlip uses play money only. There is no real-money gambling.**
 
